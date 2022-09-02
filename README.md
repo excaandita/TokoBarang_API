@@ -22,9 +22,9 @@ https://documenter.getpostman.com/view/19058723/VUxRNRTE
 3. The Time in Word https://www.hackerrank.com/challenges/the-time-in-words/submissions/code/287316292
 ![image](https://user-images.githubusercontent.com/76029874/188078661-e66c800a-92e1-4115-b6e2-144615760eb4.png)
 
-## Contributing
+## Design ERD 
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![TokoBarang drawio](https://user-images.githubusercontent.com/76029874/188220833-e8882d0f-8cc1-4626-9c69-2144c41cf7b5.png)
 
 ## Code of Conduct
 
